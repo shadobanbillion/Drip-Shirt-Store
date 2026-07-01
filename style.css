@@ -1,0 +1,158 @@
+ #confidence {
+            color: rgb(180, 163, 144);
+
+
+        }
+
+        #confidence:hover {
+            color: #f9f2e8;
+
+        }
+
+        header {
+            border: 50px;
+            box-shadow: none;
+            border: cornsilk;
+            background-color: #222;
+            color: rgb(157, 101, 27);
+            caret-color: azure;
+            text-align: center;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            font-size: larger;
+            font-style: initial;
+            padding: 18px;
+
+        }
+
+        nav {
+            text-align: center;
+            border-style: groove;
+            size: 15px;
+            height: 17px;
+            box-shadow: none;
+            border-color: rgb(237, 224, 197);
+
+            color: #f9f2e8;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            font: 200;
+            font-style: unset;
+
+        }
+
+        div {
+            text-align: center;
+            text-decoration: solid;
+            text-shadow: navy;
+            color: dimgray;
+            text-size-adjust: 200px;
+            font-size: 30px;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            font-style: italic;
+            border-style: inset;
+            background-color: #222;
+            padding: 18px;
+
+        }
+
+ aside {
+            text-align: center;
+            border-style: outset;
+            border-color: rgb(0, 0, 0);
+            background-color: rgb(150, 150, 152);
+            font-size: medium;
+            font-style: oblique;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            color: rgb(237, 237, 239);
+            padding: 18px;
+
+        }
+
+ section {
+            border-style: none;
+            transition: cubic-bezier(-10px);
+            background-color: rgb(59, 55, 54);
+            color: aliceblue;
+            font-family: 'Times New Roman', Times, serif;
+            font-style: inherit;
+            font-size: 20px;
+            text-align: center;
+            padding: 15px;
+
+         }
+figcaption {
+             border-style: none;
+             background-color:white;
+             border-color: black;
+             font-size: larger;
+             font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+             padding: 15pt;
+             margin: 15pt;
+        }
+figcaption :hover{ color: #222;
+
+}
+        summary {
+            order-style: none;
+            transition: cubic-bezier(-10px);
+            background-color: rgb(59, 55, 54);
+            color: aliceblue;
+            font-family: 'Times New Roman', Times, serif;
+            font-style: inherit;
+            font-size: 20px;
+            text-align: center;
+            padding: 15px;
+        }
+
+        ul {
+            background-color: rgb(59, 55, 54);
+            ;
+            border: 10px;
+
+
+        }
+
+        li {
+            color: rgb(158, 99, 206);
+            font-size: 20px;
+            border-bottom: 1px solid gray;
+            padding: 10px;
+            margin: 10px 0;
+        }
+
+        main {
+            text-align: center;
+            border-style: groove solid;
+            color: rgb(234, 240, 246);
+            background-color: rgb(26, 14, 0);
+            font-size: medium;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            padding: 15px;
+        }
+
+        nav {
+            background: #222;
+            padding: 10px;
+
+        }
+
+        a {
+            color: white;
+            text-decoration: none;
+            font-size: 18px;
+            font-weight: bold;
+            transition: color 0.3s ease;
+
+        }
+
+        a:hover {
+            color: gold;
+
+        }
+
+        footer {
+            font-size: xx-small;
+            text-align: end;
+            padding: 20px;
+            color: #f9f2e8;
+            background-color: #222;
+        }
